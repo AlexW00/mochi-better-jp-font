@@ -1,6 +1,6 @@
 # Better Japanese Font
 
-This is a simple css theme that changes the default font of Mochi to Noto Serif JP.
+![image](https://user-images.githubusercontent.com/55558407/221356780-37435825-f99b-4372-b941-7a3b2c0329ac.jpg)
 
 ## Usage
 
