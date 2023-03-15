@@ -1,0 +1,27 @@
+* {
+	font-family: "Noto Serif JP";
+}
+
+h2 {
+    line-height: 1em;
+}
+
+rt {
+    color: transparent;
+    background-color: var(--mochi--cloze-2--background-color);
+    border-radius: 5px;
+    margin: 2px;
+}
+
+ruby:hover > rt {
+    animation-name: rtIn;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes rtIn {
+    to {
+        color: var(--mochi--h-menu-item--foreground);
+        background-color: transparent;
+    }
+}
